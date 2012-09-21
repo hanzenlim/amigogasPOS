@@ -1,4 +1,3 @@
 amigogasPOS
 ===========
-
-gas station single workstation POS
+This is a standalone workstation for gas station. Feel free to copy it!!!
